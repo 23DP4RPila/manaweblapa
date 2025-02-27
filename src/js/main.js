@@ -21,9 +21,7 @@ var lietvardi = Array("noziedznieki, ",
                         "kaķis, ",
                         "cilvēki, ",
                         "soma, ",
-                        "nemīlēti politiķi, ",
-                        "Pēteris, ",
-                        " - \"ak, tas ir viņš\","
+                        "Pēteris, "
                      );
 
 
@@ -42,20 +40,18 @@ var talakasDarbibas = Array("tad ",
 );
 
 
-var velTalakasDarbibas = Array(" ir jāšauj nost ",
+var velTalakasDarbibas = Array(
                         "saproti, ka tava dzīve nemaz nav tik slikta ",
                         " noglāsti ",
                         " jāpārdomā dzīvi ",
                         " jābēg prom ",
                         " veido dīvainas sejas ",
                         "diktē savus noteikumus",
-                        " jāuzsāk kautiņu ",
                         " sauc policiju ",
-                        " prasi cīgu ",
                         " jāpārliecinās, ka nesapņo ",
                         "izsaucies - \"cik tas nežēlīgi!\"",
                         "vispirms aizej uz tualeti",
-                        " \"Vai tramvajā dzimis? \" "
+                        " saki: \"Vai tramvajā dzimis? \" "
 
 );
 
@@ -72,7 +68,6 @@ var ekstraDarbibas = Array("un ātri ",
 );
 
 var papildusDarbibas = Array("ej prom.",
-                            "ievelc dūmu", 
                             "aizver durvis", 
                             "jānožēlo sava rīcība",
                             " piezvani mammai",
