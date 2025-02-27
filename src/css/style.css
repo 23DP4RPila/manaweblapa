@@ -27,3 +27,8 @@ button {
     border: #637e3d solid 10px;
     margin-top: 250px;
 }
+
+
+body, html {
+    height: 100%;
+}

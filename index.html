@@ -10,7 +10,7 @@
 <header>
     <img src="images/generator_logo.svg" alt="Mans logo">
 
-    <button id="ipasais" onclick="location.reload()">Ģenerē vēl vienu</button>
+    <button id="ipasais" onclick="reveal()">Ģenerē vēl vienu</button>
     <button>Pievieno savus citātus</button>
     <button>BUJ</button>
     <button>Kontakti</button>
@@ -21,11 +21,19 @@
 <p id="sakumaFraze" onclick="reveal()">Klikšķini te, BET UZMANIES! Neuztver šos teikumus nopietni!</p> 
 <p id="lietvardi" onclick="reveal()"></p>
 <p id="talakasDarbibas" onclick="reveal()"></p>
-<p id="velTalakasDarbibas" onclick="reveal()"></p>
+<p id="velTalakasDarbibas" onclick="reveal()" ></p>
 <p id="ekstraDarbibas" onclick="reveal()"></p>
 <p id="papildusDarbibas" onclick="reveal()"></p>
-
 </div>
+
+<br>
+<br>
+<br>
+<br>
+<br>
+
+<p id="troll" onmouseover="troll()" onmouseleave="unTroll()">Ziņo par teikumu</p>
+
 
 </body>
 <script src="src/js/main.js"></script>
