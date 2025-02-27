@@ -1,0 +1,29 @@
+header {
+    display: flex;
+    flex-direction: row;
+    margin-right: 100%;
+    height: 50px;
+    align-items: center;  
+    gap: 10px;
+    border: 2px solid #637e3d;
+
+}
+
+button {
+    border-style: hidden;
+    background-color: white;
+}
+
+#ipasais {
+    background-color: lightblue;
+    height: 50px;
+    width: 100px;
+    border: 2px black;
+    border-style: dashed;
+}
+
+#main {
+    display: block;
+    border: #637e3d solid 10px;
+    margin-top: 250px;
+}
