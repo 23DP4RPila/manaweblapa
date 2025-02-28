@@ -1,16 +1,18 @@
 
 var sakumaFrazes = Array("Kad dzīvē iet grūti un pa ielu iet",
-                  "Tikko kā redzi - ",
+                  "Tikko kā redz - ",
                   "Ja tur ir",
                   "Nē... lūk",
-                  "Uzreiz kā redzi - ",
+                  "Uzreiz kā redz - ",
                   "Ko? Tur ir",
                   "Tu skaties, lūk - ",
                   "Kas tas ir? Ak - ",
                   "Vai man rādās - ",
                   "Tas taču nevar būt - ",
                   "Vai man rādās - ",
-                  "Skat, skat - "
+                  "Skat, skat - ",
+                  "Vai tas var būt - ",
+
                   );
 
 
@@ -34,32 +36,30 @@ var lietvardi = Array("noziedznieki, ",
                         "maisiņš, kuru vajg,",
                         "kapibara,",
                         "lemurs,",
-                        "gorilla"
+                        "gorilla,"
                      );
 
 
-var talakasDarbibas = Array("tad ",
+var talakasDarbibas = Array("tad, ",
                         "zibenīgi, ",
-                        "domādams, kā tas vispār ir iespējams, nekavējoties ",
-                        "tad uzreiz ",
+                        "domādams, kā tas vispār ir iespējams, nekavējoties, ",
+                        "tad uzreiz, ",
                         "saprotot, kas ir noticis,",
                         "ilgi nedomājot,",
                         "traki",
                         "fiksi,",
-                        "a nu ka",
+                        "a nu ka,",
                         "gandrīz paslīdot uz neērti novietotas banāna mizas,",
                         "Un es, reaģējot uz to, ko redzu, savas rokas, vienu gar otru rīvējot, ",
-                        "mierīgi",
-                        "ar troksni",
+                        "mierīgi,",
+                        "ar troksni,",
                         "OHO, VAU VAU VAU,",
                         "OOOO JĀĀĀ, ",
                         "tev uznāk milzīga vēlme - ",
-                        "klusi",
+                        "klusi,",
                         "ar ātrumu 120 km/h,",
                         "uzreiz kā to sapratu, man kaut kāda balss saka: ",
                         "man rodas ideja: "
-
-
 );
 
 
@@ -69,27 +69,24 @@ var velTalakasDarbibas = Array(
                         " bēdz vien prom, ",
                         " apsver domu veidot dīvainas sejas, ",
                         "diktē savus noteikumus, paga, ko... ",
-                        "noliec visu pa plauktiņiem",
-                        "pieliec savu dzelzs dūri",
+                        "noliec visu pa plauktiņiem, ",
+                        "pieliec savu dzelzs dūri, ",
                         " sauc policiju, ",
                         " jāpārliecinās, ka nesapņo, ",
                         "izsaucies - \"cik tas nežēlīgi!\",",
-                        "vispirms aizej aiz stūra, un, un tad, tad, tad tu - ,",
+                        "vispirms aizej aiz stūra, un, un tad, tad, tad tu - ",
                         "saki nē,",
-                        "teikt, ka jokus nevajag te veikt",
+                        "teikt, ka jokus nevajag te veikt,",
                         "saki pie sevis: \"jokus nevajag te veikt \", ",
-                        " no tavas mutes izskan - \"Es tā vairs nedarīšu\"",
                         "es tūlīt...",
-                        "ieraugi nejauko situāciju šajā saulainajā dienā"
-
-
+                        "ieraugi nejauko situāciju šajā saulainajā dienā,",
+                        "\"o- ho ho ho\", ",
+                        "ar atvērtu muti skaties, "
 );
 
 
 var ekstraDarbibas = Array(
                         "lūdzu -",
-                        " un - ",
-                        " - ",
                         " Ak vai - ",
                         "uj uj uj - ",
                         "AHA - ",
@@ -99,10 +96,14 @@ var ekstraDarbibas = Array(
                         "nu gan... ",
                         "tā tik turpini - ",
                         "zini ko? - ",
-                        "saki \"Paldies par informāciju\" un",
+                        "saki \"Paldies par informāciju\" un - ",
                         "tas ir neticami - ",
+                        "nespēju tam noticēt - ",
                         "ja tā padomā, labāk - ",
-                        "ha, šis man atgādina sapnim kur, ja atceros, ē - "
+                        "ha, šis man atgādina sapni kur, ja atceros, ē - ",
+                        "jap, tieši tā -",
+                        "atlikt - ",
+                        "STOP - "
 );
 
 var papildusDarbibas = Array("ej prom.",
@@ -149,8 +150,13 @@ var papildusDarbibas = Array("ej prom.",
                             "ko es tikko pateicu...",
                             "[neko]",
                             "NEKAD VAIRS TĀ NERUNĀ PAR PANKŪKĀM!",
-                            "tiesi tā. Pag, KO?",
-                            "ar Dievu, mans draugs..."
+                            "tieši tā. Pag, KO?",
+                            "ar Dievu, mans draugs...",
+                            "pietiks murgot.",
+                            "pietiks dzert.",
+                            " tas ir tikai sākums.",
+                            " no tavas mutes izskan - \"Es tā vairs nedarīšu\".",
+                            "pusdienlaiks ir klāt!"
                             );
 
 
